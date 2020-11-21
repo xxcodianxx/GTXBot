@@ -1,14 +1,2 @@
 # GTXBot
- a really bad gtx+ bot that prevents cancer
-if you read the readme you gay
-
-Dependencies
-* discord.py
-* pytz
-* aiohttp
-* asyncio
-* aiosqlite
-* datetime
-
-
-on first launch, the bot will error out and a config.json will be created in the bot directory. Pass your bot's token through the "token" variable and restart the bot.
+Originally a private bot for a discord guild we made. This repository is an archive of the codebase at the time, a more general-purpose fork has been made available [in this fork](https://github.com/xxori/PeepoBot). 
